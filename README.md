@@ -4,4 +4,4 @@ You can run this game in your terminal by using command:
 
 ~ npm i number-guessing-game-cli-madebydanyal ~
 
-Make Sure! Node must be intalled on your device.
+Make Sure! Node must be installed on your device.
